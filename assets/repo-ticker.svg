@@ -105,16 +105,16 @@
         dur="54s"
         repeatCount="indefinite"/>
 
-      <!-- Repo: nicedreamzapp/claude-code-local -->
+      <!-- Repo: yasasbanukaofficial/claude-code -->
       <g transform="translate(0, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code-local</text>
+              fill="#ffffff">claude-code</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">nicedreamzapp</text>
-        <text x="318" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 2.7K ⭐ +3</text>
+              fill="#ffffff" opacity="1.0">yasasbanukaofficial</text>
+        <text x="390" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 3.4K ⭐ +5</text>
       </g>
       <!-- Repo: AICoderTudou/claude-code-tudou -->
       <g transform="translate(300, 0)">
@@ -127,104 +127,104 @@
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
               fill="#ffffff">claude-code-tudou</text>
       </g>
-      <!-- Repo: Cranot/claude-code-guide -->
+      <!-- Repo: freestylefly/claude-code -->
       <g transform="translate(600, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code-guide</text>
+              fill="#ffffff">claude-code</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">Cranot</text>
-        <text x="234" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 2.8K ⭐ +3</text>
+              fill="#ffffff" opacity="1.0">freestylefly</text>
+        <text x="306" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 125 ⭐</text>
       </g>
-      <!-- Repo: edmund-io/edmunds-claude-code -->
+      <!-- Repo: ding113/claude-code-hub -->
       <g transform="translate(900, 0)">
         <!-- Owner name -->
         <text x="140" y="102" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">edmund-io</text>
-        <text x="270" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 1.4K ⭐</text>
+              fill="#ffffff" opacity="1.0">ding113</text>
+        <text x="246" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 3.0K ⭐ +8</text>
         <!-- Repo name -->
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">edmunds-claude-code</text>
+              fill="#ffffff">claude-code-hub</text>
       </g>
-      <!-- Repo: kodu-ai/claude-coder -->
+      <!-- Repo: VoltAgent/awesome-claude-code-subagents -->
       <g transform="translate(1200, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-coder</text>
+              fill="#ffffff">awesome-claude-code-suba...</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">kodu-ai</text>
-        <text x="246" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 5.3K ⭐</text>
+              fill="#ffffff" opacity="1.0">VoltAgent</text>
+        <text x="270" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 21.2K ⭐ +65</text>
       </g>
-      <!-- Repo: VineeTagarwaL-code/claude-code -->
+      <!-- Repo: ykdojo/claude-code-tips -->
       <g transform="translate(1500, 0)">
         <!-- Owner name -->
         <text x="140" y="102" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">VineeTagarwaL-code</text>
-        <text x="378" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 276 ⭐</text>
+              fill="#ffffff" opacity="1.0">ykdojo</text>
+        <text x="234" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 8.6K ⭐ +12</text>
         <!-- Repo name -->
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code</text>
+              fill="#ffffff">claude-code-tips</text>
       </g>
-      <!-- Repo: ding113/claude-code-hub -->
+      <!-- Repo: lst97/claude-code-sub-agents -->
       <g transform="translate(1800, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code-hub</text>
+              fill="#ffffff">claude-code-sub-agents</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">ding113</text>
-        <text x="246" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 3.0K ⭐ +10</text>
+              fill="#ffffff" opacity="1.0">lst97</text>
+        <text x="222" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 1.6K ⭐ +1</text>
       </g>
-      <!-- Repo: alex000kim/claude-code -->
+      <!-- Repo: Donchitos/Claude-Code-Game-Studios -->
       <g transform="translate(2100, 0)">
         <!-- Owner name -->
         <text x="140" y="102" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">alex000kim</text>
-        <text x="282" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 227 ⭐</text>
+              fill="#ffffff" opacity="1.0">Donchitos</text>
+        <text x="270" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 20.8K ⭐ +77</text>
         <!-- Repo name -->
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code</text>
+              fill="#ffffff">Claude-Code-Game-Studios</text>
       </g>
-      <!-- Repo: fazxes/Claude-code -->
+      <!-- Repo: tanbiralam/claude-code -->
       <g transform="translate(2400, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">Claude-code</text>
+              fill="#ffffff">claude-code</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">fazxes</text>
-        <text x="234" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 219 ⭐</text>
+              fill="#ffffff" opacity="1.0">tanbiralam</text>
+        <text x="282" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 1.8K ⭐ +4</text>
       </g>
-      <!-- Repo: yasasbanukaofficial/claude-code -->
+      <!-- Repo: affaan-m/ECC -->
       <g transform="translate(2700, 0)">
         <!-- Owner name -->
         <text x="140" y="102" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">yasasbanukaofficial</text>
-        <text x="390" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 3.4K ⭐ +7</text>
+              fill="#ffffff" opacity="1.0">affaan-m</text>
+        <text x="258" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 207.0K ⭐ +1.6K</text>
         <!-- Repo name -->
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code</text>
+              fill="#ffffff">ECC</text>
       </g>
-      <!-- Repo: nicedreamzapp/claude-code-local -->
+      <!-- Repo: yasasbanukaofficial/claude-code -->
       <g transform="translate(3000, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code-local</text>
+              fill="#ffffff">claude-code</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">nicedreamzapp</text>
-        <text x="318" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 2.7K ⭐ +3</text>
+              fill="#ffffff" opacity="1.0">yasasbanukaofficial</text>
+        <text x="390" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 3.4K ⭐ +5</text>
       </g>
       <!-- Repo: AICoderTudou/claude-code-tudou -->
       <g transform="translate(3300, 0)">
@@ -237,27 +237,27 @@
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
               fill="#ffffff">claude-code-tudou</text>
       </g>
-      <!-- Repo: Cranot/claude-code-guide -->
+      <!-- Repo: freestylefly/claude-code -->
       <g transform="translate(3600, 0)">
         <!-- Repo name -->
         <text x="140" y="32" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">claude-code-guide</text>
+              fill="#ffffff">claude-code</text>
         <!-- Owner name -->
         <text x="140" y="64" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">Cranot</text>
-        <text x="234" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 2.8K ⭐ +3</text>
+              fill="#ffffff" opacity="1.0">freestylefly</text>
+        <text x="306" y="64" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 125 ⭐</text>
       </g>
-      <!-- Repo: edmund-io/edmunds-claude-code -->
+      <!-- Repo: ding113/claude-code-hub -->
       <g transform="translate(3900, 0)">
         <!-- Owner name -->
         <text x="140" y="102" font-family="'Courier New', monospace" font-size="24" font-weight="normal"
-              fill="#ffffff" opacity="1.0">edmund-io</text>
-        <text x="270" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#00ffff"> | 1.4K ⭐</text>
+              fill="#ffffff" opacity="1.0">ding113</text>
+        <text x="246" y="102" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#00ffff"> | 3.0K ⭐ +8</text>
         <!-- Repo name -->
         <text x="140" y="132" font-family="'Courier New', monospace" font-size="34" font-weight="bold"
-              fill="#ffffff">edmunds-claude-code</text>
+              fill="#ffffff">claude-code-hub</text>
       </g>
     </g>
   </g>
